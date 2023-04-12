@@ -1,4 +1,4 @@
-# Web_Assignment_9
+# Web_Assignment_10
 
 This assignment consists of a react application that forecasts the weather for the next 5 days.
 This Application also supports hourly forcast for the next 5 days and shows minimum and maximum temperatures every 3 hours.
