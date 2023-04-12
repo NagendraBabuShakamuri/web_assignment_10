@@ -1,3 +1,8 @@
+# Web_Assignment_9
+
+This assignment consists of a react application that forecasts the weather for the next 5 days.
+This Application also supports hourly forcast for the next 5 days and shows minimum and maximum temperatures every 3 hours.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
